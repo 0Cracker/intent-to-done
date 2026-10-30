@@ -1,0 +1,3 @@
+interface:
+  display_name: "Intent to Done"
+  short_description: "충분한 인터뷰와 TDD, 독립 검증을 잇는 코딩 워크플로"
